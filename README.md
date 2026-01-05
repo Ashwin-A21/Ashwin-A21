@@ -45,7 +45,7 @@
 - Core team member  
 - Crafting **high-end interfaces**, smooth transitions & performance-driven UX
 
-### ⚙️ Odoo ERP Developer — **Zekrom Technologies**
+### ⚙️ Odoo ERP Developer 
 - Advanced **Odoo module development**
 - System architecture & business workflow optimization
 
