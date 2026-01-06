@@ -78,7 +78,7 @@
 <!-- ===================== PROJECTS ===================== -->
 ## 🧩 Selected Projects
 
-### 🔹 Odoo ERP Customizations (50+)
+### 🔹 Odoo ERP Customizations (70+)
 > Business-specific modules and enhancements across multiple industries  
 **Tech:** Odoo, Python, XML, PostgreSQL
 
