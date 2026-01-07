@@ -12,9 +12,18 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ashwinambar2002@gmail.com"><img src="https://img.shields.io/badge/Email-ashwinambar2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ashwinambar"><img src="https://img.shields.io/badge/LinkedIn-Ashwin%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Ashwin-A21"><img src="https://img.shields.io/badge/GitHub-Ashwin--A21-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ashwinambar2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashwinambar2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashwinambar">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwin%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ashwin-A21">
+    <img src="https://img.shields.io/badge/GitHub-Ashwin--A21-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://ash-ecru.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ash--ecru.vercel.app-6E57E0?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
