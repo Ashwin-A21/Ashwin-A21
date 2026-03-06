@@ -34,7 +34,7 @@
 > I design and engineer **high-performance web, ERP, and mobile systems** that blend  
 > **business logic, automation, and premium user experience**.
 
-- 🏗️ **70+ Odoo ERP customizations & modules (v17)**
+- 🏗️ **180+ Odoo ERP customizations & modules (v17)**
 - 🌍 International client projects (**Oman-based systems**)
 - ⚡ Workflow automation with **n8n + WhatsApp API**
 - 🎨 Modern UI/UX, 3D Web, and immersive frontend
