@@ -1,4 +1,4 @@
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e07a68c-731b-41df-9d8b-2ee10a99c675" /><!-- ===================== HERO ===================== -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=220&section=header&text=Ashwin%20A&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
