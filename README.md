@@ -133,7 +133,7 @@
 <!-- ===================== EDUCATION ===================== -->
 ## 🎓 Education
 
-**MCA (Pursuing)** — St. Agnes College (Autonomous), Mangaluru  
+**MCA** — St. Agnes College (Autonomous), Mangaluru  
 **2023 – 2025**
 
 **BCA** — Dr. P. Dayananda Pai – P. Satisha Pai GFGC, Mangalore  
