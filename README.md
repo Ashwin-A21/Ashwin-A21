@@ -95,6 +95,10 @@
 > Automated notifications, workflows & client communication  
 **Tech:** Odoo, n8n, WhatsApp API
 
+### 🔹 Odoo controlled Ai chatbot for websites 
+> Manage /integrate Ai chatbots for ur websites through odoo , can configure colors, questions ,prompts etc .(can set chatbot to Ai based or manual question type without ai)  
+**Tech:** Odoo , js ,Php . 
+
 ### 🔹 Hospital Management System
 > Complete hospital ERP solution  
 **Tech:** Odoo, Python
