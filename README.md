@@ -87,7 +87,7 @@
 <!-- ===================== PROJECTS ===================== -->
 ## 🧩 Selected Projects
 
-### 🔹 Odoo ERP Customizations (70+)
+### 🔹 Odoo ERP Customizations (170+)
 > Business-specific modules and enhancements across multiple industries  
 **Tech:** Odoo, Python, XML, PostgreSQL
 
@@ -139,6 +139,7 @@
 
 **MCA** — St. Agnes College (Autonomous), Mangaluru  
 **2023 – 2025**
+**CGPA: 7.80**
 
 **BCA** — Dr. P. Dayananda Pai – P. Satisha Pai GFGC, Mangalore  
 **CGPA: 8.07**
