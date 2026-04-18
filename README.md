@@ -46,7 +46,7 @@
 ## 🏢 Experience & Startup Journey
 
 ### 🚀 Web Developer — **Aitsun Technology**
-**2024 – Present**
+**2025 – Present**
 - Building and maintaining **ERP & web solutions** for global clients
 - Delivering scalable systems with strong security & performance focus
 
@@ -59,7 +59,7 @@
 - System architecture & business workflow optimization
 
 ### 🧪 Web Developer Intern — **Aitsun Technology**
-**2024**
+**2025**
 - Full-stack exposure  
 - Real-world ERP and production systems
 
