@@ -138,6 +138,41 @@ Multi-session ERP desktop manager
 
 ---
 
+
+<!-- ===================== LIVE PROJECTS ===================== -->
+
+## 🌐 Live Work & Deployments
+
+<p align="center">
+  <a href="https://kreaticainterior.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Kreatica%20Interior-Live%20Website-6E57E0?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://dev.kreaticainterior.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20Ash-Live%20Environment-FF6F00?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://mediwerk.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Mediwerk-Healthcare%20Platform-0A66C2?style=for-the-badge&logo=mediamarkt&logoColor=white"/>
+  </a>
+  <a href="https://oceanzoneksa.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OceanZone%20KSA-Business%20Website-009688?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://qdla.in/" target="_blank">
+    <img src="https://img.shields.io/badge/QDLA-Modern%20UI%2FUX-111111?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🧩 What This Represents
+
+* 🌍 **Production-grade client deployments**
+* 🏗️ Full-stack + ERP-backed systems
+* 🎨 High-end UI/UX engineering
+* ⚡ Performance-focused builds with real users
+
+> These are not demos — these are **live, business-critical systems in production**
+
+
 <!-- ===================== EDUCATION ===================== -->
 
 ## 🎓 Education
