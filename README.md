@@ -1,4 +1,5 @@
 <!-- ===================== HERO ===================== -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=220&section=header&text=Ashwin%20A&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -6,6 +7,10 @@
 <h2 align="center">
   Full-Stack Developer • Odoo Specialist • Creative Technologist
 </h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=6E57E0&center=true&vCenter=true&width=700&lines=Building+Scalable+ERP+Systems;Designing+Immersive+3D+Web+Experiences;Automation+Driven+Solutions;Turning+Ideas+Into+Products" />
+</p>
 
 <p align="center">
   <i>Building scalable systems, immersive interfaces, and automation-driven products</i>
@@ -29,124 +34,124 @@
 ---
 
 <!-- ===================== VALUE PROPOSITION ===================== -->
+
 ## 🧠 What I Do
 
-> I design and engineer **high-performance web, ERP, and mobile systems** that blend  
+> I design and engineer **high-performance web, ERP, and mobile systems** that blend
 > **business logic, automation, and premium user experience**.
 
-- 🏗️ **180+ Odoo ERP customizations & modules (v17)**
-- 🌍 International client projects (**Oman-based systems**)
-- ⚡ Workflow automation with **n8n + WhatsApp API**
-- 🎨 Modern UI/UX, 3D Web, and immersive frontend
-- 📱 Cross-platform apps using **Flutter**
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-180+_Modules-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clients-International-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-n8n_+_WhatsApp-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI/UX-3D_Experiences-6E57E0?style=for-the-badge"/>
+</p>
+
+* 🏗️ **180+ Odoo ERP customizations & modules (v17)**
+* 🌍 International client projects (**Oman-based systems**)
+* ⚡ Workflow automation with **n8n + WhatsApp API**
+* 🎨 Modern UI/UX, 3D Web, and immersive frontend
+* 📱 Cross-platform apps using **Flutter**
 
 ---
 
 <!-- ===================== EXPERIENCE ===================== -->
-## 🏢 Experience & Startup Journey
+
+## 🏢 Experience & Journey
 
 ### 🚀 Web Developer — **Aitsun Technology**
+
 **2025 – Present**
-- Building and maintaining **ERP & web solutions** for global clients
-- Delivering scalable systems with strong security & performance focus
+
+* Building and maintaining **ERP & web solutions** for global clients
+* Delivering scalable systems with strong security & performance focus
 
 ### 🎨 Modern UI/UX Engineer — **Qdla**
-- Core team member  
-- Crafting **high-end interfaces**, smooth transitions & performance-driven UX
 
-### ⚙️ Odoo ERP Developer 
-- Advanced **Odoo module development**
-- System architecture & business workflow optimization
+* Core team member
+* Crafting **high-end interfaces**, smooth transitions & performance-driven UX
 
-### 🧪 Web Developer Intern — **Aitsun Technology**
-**2025**
-- Full-stack exposure  
-- Real-world ERP and production systems
+### ⚙️ Odoo ERP Developer
+
+* Advanced **Odoo module development**
+* System architecture & workflow optimization
 
 ---
 
 <!-- ===================== TECH STACK ===================== -->
+
 ## 🛠️ Tech Arsenal
 
-### 💻 Languages
-`HTML` `CSS` `JavaScript` `Python` `Dart` `Java` `C/C++` `C#` `PHP`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,java,cpp,csharp,php,react,nodejs,django,flutter,mongodb,postgres&theme=dark" />
+</p>
 
-### ⚙️ Frameworks & Platforms
-- **Odoo v17** (Advanced Customization, Integrations)
-- **Flutter** (Android / iOS)
-- **React · Node.js · Django**
-- **Three.js · GSAP**
-- **Electron.js**
-- **n8n Automation**
-
-### 🗄️ Databases
-`PostgreSQL` `MongoDB`
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-v17_Expert-714B67?style=for-the-badge&logo=odoo"/>
+  <img src="https://img.shields.io/badge/Three.js-WebGL-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Electron-Desktop_App-47848F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-Automation-FF6D00?style=for-the-badge"/>
+</p>
 
 ---
 
 <!-- ===================== PROJECTS ===================== -->
+
 ## 🧩 Selected Projects
 
-### 🔹 Odoo ERP Customizations (170+)
-> Business-specific modules and enhancements across multiple industries  
-**Tech:** Odoo, Python, XML, PostgreSQL
+🔹 **Odoo ERP Customizations (170+)**
+Business-specific modules across industries
 
-### 🔹 Odoo ↔ n8n ↔ WhatsApp Automation
-> Automated notifications, workflows & client communication  
-**Tech:** Odoo, n8n, WhatsApp API
+🔹 **Odoo ↔ n8n ↔ WhatsApp Automation**
+Automated workflows & real-time communication
 
-### 🔹 Odoo controlled Ai chatbot for websites 
-> Manage /integrate Ai chatbots for ur websites through odoo , can configure colors, questions ,prompts etc .(can set chatbot to Ai based or manual question type without ai)  
-**Tech:** Odoo , js ,Php . 
+🔹 **AI Chatbot Control via Odoo**
+Configurable chatbot system (AI/manual modes)
 
-### 🔹 Hospital Management System
-> Complete hospital ERP solution  
-**Tech:** Odoo, Python
+🔹 **Kreatica — 3D Interior Platform**
+Interactive WebGL + chatbot experience
 
-### 🔹 Venma *(In Progress)*
-> Cross-platform mobile app with modern UX  
-**Tech:** Flutter, Dart
+🔹 **Visitor Management System**
+Check-ins, kiosk, security automation
 
-### 🔹 Visitor Management System (Odoo 17)
-> Check-ins, badges, kiosk & security automation  
-**Tech:** Odoo 17, Python
+🔹 **Biometric Attendance System**
+Hardware-integrated automation
 
-### 🔹 Kiosk Interface
-> Self-registration UI with backend sync  
-**Tech:** HTML, JavaScript, Odoo API
-
-### 🔹 Biometric Attendance System
-> Hardware-integrated attendance automation  
-**Tech:** Odoo, Python, SDKs
-
-### 🔹 Site Manager Desktop App (Concept_powerdesk)
-> Multi-session site manager for ERP platforms  
-**Tech:** Electron.js
-
-### 🔹 Kreatica — 3D Interior Design Platform
-> Interactive WebGL experience with chatbot  
-**Tech:** Three.js, Node.js
-
-### 🔹 CSV → PDF Converter
-> High-speed batch conversion utility  
-**Tech:** Python
+🔹 **Concept PowerDesk (Electron App)**
+Multi-session ERP desktop manager
 
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-A21&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-A21&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashwin-A21&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
 
 <!-- ===================== EDUCATION ===================== -->
+
 ## 🎓 Education
 
-**MCA** — St. Agnes College (Autonomous), Mangaluru  
-**2023 – 2025**
+**MCA** — St. Agnes College, Mangaluru
 **CGPA: 7.80**
 
-**BCA** — Dr. P. Dayananda Pai – P. Satisha Pai GFGC, Mangalore  
+**BCA** — Dr. P. Dayananda Pai GFGC
 **CGPA: 8.07**
 
 ---
 
 <!-- ===================== FOOTER ===================== -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=120&section=footer"/>
 </p>
