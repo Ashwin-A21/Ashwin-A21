@@ -1,84 +1,74 @@
 <!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=220&section=header&text=Ashwin%20A&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=240&section=header&text=Ashwin%20A&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">
-  Full-Stack Developer • Odoo Specialist • Creative Technologist
-</h2>
+<h2 align="center">Full-Stack Developer • Odoo Specialist • Creative Technologist</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=6E57E0&center=true&vCenter=true&width=700&lines=Building+Scalable+ERP+Systems;Designing+Immersive+3D+Web+Experiences;Automation+Driven+Solutions;Turning+Ideas+Into+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=6E57E0&center=true&vCenter=true&width=750&lines=Building+Production-Grade+ERP+Systems;Designing+Immersive+Web+Experiences;Automation+%2B+AI+Driven+Workflows;Turning+Ideas+Into+Scalable+Products" />
 </p>
 
 <p align="center">
-  <i>Building scalable systems, immersive interfaces, and automation-driven products</i>
+  <i>Design with intent • Engineer with precision • Scale without fear</i>
 </p>
 
 <p align="center">
   <a href="mailto:ashwinambar2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ashwinambar2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ashwinambar">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashwin%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Ashwin-A21">
-    <img src="https://img.shields.io/badge/GitHub-Ashwin--A21-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://ash-ecru.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ash--ecru.vercel.app-6E57E0?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-6E57E0?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-<!-- ===================== VALUE PROPOSITION ===================== -->
 
 ## 🧠 What I Do
 
-> I design and engineer **high-performance web, ERP, and mobile systems** that blend
-> **business logic, automation, and premium user experience**.
+> I engineer **high-performance ERP systems, web platforms, and automation pipelines**
+> blending **business logic, scalability, and premium user experience**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo-180+_Modules-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-180%2B_Modules-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clients-International-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-n8n_+_WhatsApp-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI/UX-3D_Experiences-6E57E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-n8n%20%2B%20WhatsApp-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UX-3D%20Experiences-6E57E0?style=for-the-badge"/>
 </p>
 
-* 🏗️ **180+ Odoo ERP customizations & modules (v17)**
-* 🌍 International client projects (**Oman-based systems**)
-* ⚡ Workflow automation with **n8n + WhatsApp API**
-* 🎨 Modern UI/UX, 3D Web, and immersive frontend
-* 📱 Cross-platform apps using **Flutter**
+* 🏗️ Built **180+ Odoo ERP modules (v17)**
+* 🌍 Delivered **international production systems**
+* ⚡ Automated workflows with **n8n + APIs**
+* 🎨 Created immersive UI/UX & 3D web experiences
+* 📱 Developed cross-platform apps using Flutter
 
 ---
 
-<!-- ===================== EXPERIENCE ===================== -->
+## 🏢 Experience
 
-## 🏢 Experience & Journey
-
-### 🚀 Web Developer — **Aitsun Technology**
+### 🚀 Web Developer — Aitsun Technology
 
 **2025 – Present**
 
-* Building and maintaining **ERP & web solutions** for global clients
-* Delivering scalable systems with strong security & performance focus
+* Building scalable ERP & web systems for global clients
+* Focus: performance, security, maintainability
 
-### 🎨 Modern UI/UX Engineer — **Qdla**
+### 🎨 UI/UX Engineer — Qdla
 
-* Core team member
-* Crafting **high-end interfaces**, smooth transitions & performance-driven UX
+* Designing high-end interfaces with smooth interaction systems
 
 ### ⚙️ Odoo ERP Developer
 
-* Advanced **Odoo module development**
-* System architecture & workflow optimization
+* Custom modules, integrations & business workflows
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Arsenal
 
@@ -87,48 +77,57 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo-v17_Expert-714B67?style=for-the-badge&logo=odoo"/>
+  <img src="https://img.shields.io/badge/Odoo-v17_Expert-714B67?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Three.js-WebGL-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Electron-Desktop_App-47848F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Electron-Desktop-47848F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/n8n-Automation-FF6D00?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+## 🌐 Live Work & Deployments
 
-## 🧩 Selected Projects
+<p align="center">
+  <a href="https://kreaticainterior.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Kreatica%20Interior-Production-6E57E0?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://dev.kreaticainterior.in/" target="_blank">
+    <img src="https://img.shields.io/badge/ASH%20Portfolio-Live-FF6F00?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://mediwerk.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Mediwerk-Healthcare-0A66C2?style=for-the-badge"/>
+  </a>
+  <a href="https://oceanzoneksa.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OceanZone-KSA-009688?style=for-the-badge"/>
+  </a>
+  <a href="https://qdla.in/" target="_blank">
+    <img src="https://img.shields.io/badge/QDLA-UI%2FUX-111111?style=for-the-badge"/>
+  </a>
+</p>
 
-🔹 **Odoo ERP Customizations (170+)**
-Business-specific modules across industries
-
-🔹 **Odoo ↔ n8n ↔ WhatsApp Automation**
-Automated workflows & real-time communication
-
-🔹 **AI Chatbot Control via Odoo**
-Configurable chatbot system (AI/manual modes)
-
-🔹 **Kreatica — 3D Interior Platform**
-Interactive WebGL + chatbot experience
-
-🔹 **Visitor Management System**
-Check-ins, kiosk, security automation
-
-🔹 **Biometric Attendance System**
-Hardware-integrated automation
-
-🔹 **Concept PowerDesk (Electron App)**
-Multi-session ERP desktop manager
+<p align="center">
+  <i>Real-world systems • Active users • Production environments</i>
+</p>
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+## 🧩 Selected Work
 
-## 📊 GitHub Insights
+* 🔹 Odoo ERP Customizations (170+)
+* 🔹 Odoo ↔ n8n ↔ WhatsApp Automation
+* 🔹 AI Chatbot Control via Odoo
+* 🔹 Kreatica — 3D Interior Platform
+* 🔹 Visitor Management System
+* 🔹 Biometric Attendance System
+* 🔹 Electron ERP Desktop Tool
+
+---
+
+## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-A21&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-A21&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-A21&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -138,59 +137,14 @@ Multi-session ERP desktop manager
 
 ---
 
-
-<!-- ===================== LIVE PROJECTS ===================== -->
-
-## 🌐 Live Work & Deployments
-
-<p align="center">
-  <a href="https://kreaticainterior.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Kreatica%20Interior-Live%20Website-6E57E0?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://dev.kreaticainterior.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Ash-Live%20Environment-FF6F00?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://mediwerk.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Mediwerk-Healthcare%20Platform-0A66C2?style=for-the-badge&logo=mediamarkt&logoColor=white"/>
-  </a>
-  <a href="https://oceanzoneksa.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OceanZone%20KSA-Business%20Website-009688?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://qdla.in/" target="_blank">
-    <img src="https://img.shields.io/badge/QDLA-Modern%20UI%2FUX-111111?style=for-the-badge&logo=figma&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🧩 What This Represents
-
-* 🌍 **Production-grade client deployments**
-* 🏗️ Full-stack + ERP-backed systems
-* 🎨 High-end UI/UX engineering
-* ⚡ Performance-focused builds with real users
-
-> These are not demos — these are **live, business-critical systems in production**
-
-
-<!-- ===================== EDUCATION ===================== -->
-
 ## 🎓 Education
 
 **MCA** — St. Agnes College, Mangaluru
-**CGPA: 7.80**
 
 **BCA** — Dr. P. Dayananda Pai GFGC
-**CGPA: 8.07**
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <b>Design with intent • Engineer with precision • Scale without fear</b>
 </p>
